@@ -60,14 +60,26 @@
             top: 20px;
             left: 20px;
             z-index: 1001;
-            background: #004c91;
+            background: #003366;
             color: white;
             border: none;
-            padding: 10px;
-            border-radius: 5px;
+            padding: 12px;
+            border-radius: 8px;
             cursor: pointer;
             font-size: 18px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.4), 0 2px 8px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+        }
+        
+        .mobile-menu-btn:hover {
+            background: #002244;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.5), 0 4px 12px rgba(0,0,0,0.3);
+            transform: translateY(-2px);
+        }
+        
+        .mobile-menu-btn:active {
+            transform: translateY(0);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3), 0 2px 6px rgba(0,0,0,0.2);
         }
         
         .sidebar-overlay {
