@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+@layer base {
+  html {
+    font-family: 'Roboto', sans-serif;
+  }
+}
+
+@layer components {
+  .code-block {
+    @apply bg-gray-900 text-green-400 p-4 rounded-lg overflow-x-auto;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow duration-300;
+  }
+  
+  .btn-primary {
+    @apply bg-walmart-blue hover:bg-walmart-blue-light text-white px-6 py-3 rounded-lg font-medium transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-walmart-yellow hover:bg-walmart-yellow-light text-walmart-blue px-6 py-3 rounded-lg font-medium transition-colors duration-200;
+  }
+}
