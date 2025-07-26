@@ -1,6 +1,6 @@
 # 🛡️ Sistema de Detecção de Fraudes - Walmart Delivery
 
-## Link para cesso do website do Projeto: <https://nioac.com/wallmart>
+## Link para cesso do website do Projeto: <https://nioac.com/walmart>
 
 ## 📋 Visão Geral
 
