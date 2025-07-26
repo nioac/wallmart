@@ -41,5 +41,5 @@ Para hospedar o projeto no seu domínio `nioac.com/wallmart`, você precisará f
 ### 5. Acesso
 
 Após a hospedagem, seu projeto estará disponível em:
-- **Pasta**: https://nioac.com/wallmart
-- **Link**: https://nioac.com/wallmart/demo.html
+- **Pasta**: https://nioac.com/walmart
+- **Link**: https://nioac.com/walmart/demo.html
