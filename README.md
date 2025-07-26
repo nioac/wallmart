@@ -1,5 +1,7 @@
 # 🛡️ Sistema de Detecção de Fraudes - Walmart Delivery
 
+## Link para cesso do website do Projeto: <https://nioac.com/walmart>
+
 ## 📋 Visão Geral
 
 Este projeto implementa um sistema inteligente de **Machine Learning** para detectar e prevenir fraudes em entregas do Walmart, utilizando análise de dados avançada e algoritmos de detecção de padrões suspeitos. O sistema foi desenvolvido como parte de um projeto acadêmico sob orientação do **Professor Jerry Strazzeri**.
@@ -298,9 +300,9 @@ Este projeto é propriedade do Walmart e foi desenvolvido para fins acadêmicos 
 
 ---
 
-**Versão**: 1.0.0  
-**Última Atualização**: Dezembro 2024  
-**Desenvolvido com**: ❤️ e muita dedicação pela equipe do projeto
+**Versão**: 1.0.2  
+**Última Atualização**: Julho 2025  
+**Desenvolvido com**: muita dedicação
 
 ---
 
