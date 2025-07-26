@@ -1,0 +1,52 @@
+/* Estilos adicionais para o projeto Walmart */
+.gradient-bg {
+    background: linear-gradient(135deg, #004c91 0%, #0066cc 100%);
+}
+
+.sidebar-active {
+    background-color: #004c91 !important;
+    color: white !important;
+}
+
+.nav-link {
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: #f3f4f6;
+    transform: translateX(5px);
+}
+
+.card-hover {
+    transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.metric-card {
+    transition: all 0.3s ease;
+}
+
+.section {
+    min-height: 100vh;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .ml-64 {
+        margin-left: 0;
+    }
+    
+    .w-64 {
+        width: 100%;
+        position: relative;
+        height: auto;
+    }
+}
